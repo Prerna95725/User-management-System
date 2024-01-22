@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpringBoot.app.ws&apos;" deleteContents="false" description="Delete resource &apos;SpringBoot.app.ws&apos;" element1="/SpringBoot.app.ws" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1673269711490"/>&#x0A;<refactoring comment="Delete resource &apos;springboot-crud-backend&apos;" deleteContents="false" description="Delete resource &apos;springboot-crud-backend&apos;" element1="/springboot-crud-backend" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1673270513653"/>
+</session>
